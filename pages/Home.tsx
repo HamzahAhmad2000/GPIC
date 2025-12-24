@@ -146,13 +146,6 @@ export const Home: React.FC = () => {
         </div>
       </section>
 
-      {/* Image Grid */}
-      <section className="grid grid-cols-2 md:grid-cols-4 h-64">
-        <img src="https://picsum.photos/seed/arch/600/600" className="w-full h-full object-cover opacity-80 hover:opacity-100 transition-opacity" alt="Innovation Center" />
-        <img src="https://picsum.photos/seed/meet/600/600" className="w-full h-full object-cover opacity-80 hover:opacity-100 transition-opacity" alt="Meeting" />
-        <img src="https://picsum.photos/seed/lab/600/600" className="w-full h-full object-cover opacity-80 hover:opacity-100 transition-opacity" alt="Laboratory" />
-        <img src="https://picsum.photos/seed/conf/600/600" className="w-full h-full object-cover opacity-80 hover:opacity-100 transition-opacity" alt="Conference" />
-      </section>
     </div>
   );
 };
