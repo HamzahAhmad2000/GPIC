@@ -22,14 +22,13 @@ export const TRANSLATIONS: TranslationDictionary = {
     'hero.subtitle': 'Bridging Markets, Fostering Innovation, and Building Sustainable Partnerships.',
     'hero.cta.partner': 'Become a Partner',
     'hero.cta.programs': 'View Programs',
-    'hero.phase': 'Phase 1: Operational Launch',
 
     // Sections
     'section.about.title': 'About The Center',
     'section.focus.title': 'Key Focus Areas',
     'section.news.title': 'News & Insights',
     'section.news.viewAll': 'View all news',
-    
+
     // Cards
     'card.green_energy': 'Green Energy & Tech',
     'card.green_energy.desc': 'Facilitating technology transfer in solar, wind, and hydrogen technologies.',
@@ -48,7 +47,7 @@ export const TRANSLATIONS: TranslationDictionary = {
     'role.member': 'Member',
     'role.partner': 'Partner',
     'role.admin': 'Admin',
-    
+
     // Auth
     'form.submit': 'Submit Application',
     'form.login': 'Sign In',
@@ -56,7 +55,7 @@ export const TRANSLATIONS: TranslationDictionary = {
     'form.password': 'Password',
     'form.login.subtitle': 'Access the secure GPIC portal',
     'form.forgot_password': 'Forgot password?',
-    
+
     // Footer
     'footer.desc': 'Promoting technological cooperation, economic growth, and sustainable innovation between Germany and Pakistan.',
     'footer.quick_links': 'Quick Links',
@@ -111,7 +110,6 @@ export const TRANSLATIONS: TranslationDictionary = {
     'hero.subtitle': 'Märkte verbinden, Innovation fördern und nachhaltige Partnerschaften aufbauen.',
     'hero.cta.partner': 'Partner werden',
     'hero.cta.programs': 'Programme ansehen',
-    'hero.phase': 'Phase 1: Operativer Start',
 
     // Sections
     'section.about.title': 'Über das Zentrum',
